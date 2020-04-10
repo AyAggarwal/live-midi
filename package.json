@@ -1,0 +1,23 @@
+{
+  "name": "live-midi",
+  "version": "1.0.0",
+  "description": "real time midi jamming over websockets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AyAggarwal/live-midi.git"
+  },
+  "author": "Ayush Aggaral",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AyAggarwal/live-midi/issues"
+  },
+  "homepage": "https://github.com/AyAggarwal/live-midi#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "ws": "^7.2.3"
+  }
+}
